@@ -51,11 +51,12 @@ h1 {
     font-size: 24px;
     text-align: center;
     margin-bottom: 15px;
+    color: hsl(218, 44%, 22%);
 }
 
 p {
     font-weight: 400;
     font-size: 17px;
     text-align: center;
-    color: hsl(212, 45%, 89%);
+    color: hsl(220, 15%, 55%);
 }
